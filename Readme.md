@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack web to enhance my skills**
 
-- 💬 Ask me about **MERN , DSA and CPP **
+- 💬 Ask me about **MERN , DSA and CPP**
 
 - 📫 How to reach me **talk2kirtan7@gmail.com**
 
