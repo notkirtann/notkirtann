@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, DSA and CPP**
 
-- 📫 How to reach me **talk2kirtan7@gmail.com**
+- 📫 How to reach me **contactkirtann@gmail.com**
 
 - ⚡ Fun fact **Growing everyday with a variable speed**
 <p align="left"> <a href="https://twitter.com/notkirtann" target="blank"><img src="https://img.shields.io/twitter/follow/notkirtann?logo=twitter&style=for-the-badge" alt="notkirtan" /></a> </p>
