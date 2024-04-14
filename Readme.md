@@ -22,7 +22,7 @@
 <a href="https://instagram.com/notkirtann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notkirtann" height="30" width="40" /></a>
 <!-- <a href="https://auth.geeksforgeeks.org/user/notkirtann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="notkirtann" height="30" width="40" /></a> -->
 </p>
-<p align="center" width="3 !important"> <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1480&t=st=1707156539~exp=1707157139~hmac=fb6b2eac69e341d050b01ba2591cbdcf4f230fae47cca6e0bc1484ac7281c182" alt="lok" /> </p>
+<!--<p align="center" width="3 !important"> <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1480&t=st=1707156539~exp=1707157139~hmac=fb6b2eac69e341d050b01ba2591cbdcf4f230fae47cca6e0bc1484ac7281c182" alt="lok" /> </p> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
