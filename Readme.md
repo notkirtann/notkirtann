@@ -15,6 +15,7 @@
 - ⚡ Fun fact **Growing everyday with a variable speed**
 <p align="left"> <a href="https://twitter.com/notkirtann" target="blank"><img src="https://img.shields.io/twitter/follow/notkirtann?logo=twitter&style=for-the-badge" alt="notkirtan" /></a> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/notkirtann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notkirtann" height="30" width="40" /></a>
@@ -49,3 +50,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notkirtann&show_icons=true&locale=en" alt="notkirtann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notkirtann&" alt="notkirtann" /></p> 
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
