@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Nahar</h1>
-<h3 align="center">A passionate Full Stack Developer upgrading the skills on daily basis</h3>
+<h3 align="center">A passionate MERN Stack Developer upgrading the skills on daily basis</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=notkirtann&label=Profile%20views&color=0e75b6&style=flat" alt="loading" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, DSA and CPP**
 
-- 📫 How to reach me **contactkirtann@gmail.com**
+- 📫 How to reach me **contactkirtann@gmail.com & https://linktr.ee/notkirtann**
 
 - ⚡ Fun fact **Growing everyday with a variable speed**
 <p align="left"> <a href="https://twitter.com/notkirtann" target="blank"><img src="https://img.shields.io/twitter/follow/notkirtann?logo=twitter&style=for-the-badge" alt="notkirtan" /></a> </p>
