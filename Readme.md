@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kirtan Nahar</h1>
-<h3 align="center">A passionate MERN Stack Developer and Enthusiastic DSA Practitioner upgrading the skills on daily basis</h3>
+<h3 align="center">A dedicated Backend Developer and Enthusiastic DSA Practitioner</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=notkirtann&label=Profile%20views&color=0e75b6&style=flat" alt="loading" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=notkirtann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+💻 About Me
 
-- 🌱 I’m currently learning **Node.js to create the dynamic websites to enhance the user experience**
+I specialize in building robust, scalable, and high-performance server-side solutions, leveraging the full power of the Node.js ecosystem. My technical stack focuses on advanced REST API design, Express.js, and implementing modern data layers with MongoDB and GraphQL.
 
-- 👯 I’m looking to collaborate on **MERN Stack web to enhance my skills**
+I am a passionate DSA Practitioner committed to continuous skill upgrade and architecting collaborative, reliable software solutions.
 
-- 💬 Ask me about **MERN, DSA and CPP**
+🌱 I’m currently focused on mastering advanced backend patterns to create dynamic, high-performance web applications.
 
-- 📫 How to reach me **contactkirtann@gmail.com & https://linktr.ee/notkirtann**
+👯 I’m looking to collaborate on MERN Stack projects to enhance skills in full-stack architecture.
 
-- ⚡ Fun fact **Growing everyday with a variable speed**
-<p align="left"> <a href="https://twitter.com/notkirtann" target="blank"><img src="https://img.shields.io/twitter/follow/notkirtann?logo=twitter&style=for-the-badge" alt="notkirtan" /></a> </p>
+💬 Ask me about Node.js, MongoDB, DSA, and C++.
 
+📫 How to reach me: contactkirtann@gmail.com or https://linktr.ee/notkirtann
+
+⚡ Fun fact: When I'm not coding, you can find me analyzing my next move on the chess board or catching a football match.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
