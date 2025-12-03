@@ -13,7 +13,7 @@ I am a passionate DSA Practitioner committed MERN Devloper who focuses on contin
 
 💬 Ask me about MERN, DSA, and C++.
 
-📫 How to reach me: contactkirtann@gmail.com or https://linktr.ee/notkirtann
+📫 How to reach me: https://kirtan-nahar.vercel.app/ or https://linktr.ee/notkirtann
 
 ⚡ When I'm not coding, you can find me analyzing my next move on the chess board or catching a football match.
 
