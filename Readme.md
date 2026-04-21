@@ -27,9 +27,11 @@
   <a href="https://linkedin.com/in/notkirtann">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/notkirtann">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/notkirtann">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
