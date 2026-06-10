@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Nahar</h1>
-<h3 align="center">A dedicated Backend Developer and Enthusiastic DSA Practitioner</h3>
+<h3 align="center">Full Stack Engineer | MERN, AWS & Docker | Mastering AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=notkirtann&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,15 +9,15 @@
 
 ### 💻 About Me
 
-- Passionate **DSA Practitioner & MERN Developer**
-- Focused on **scalable backend systems & clean architecture**
-- Currently learning **advanced backend patterns**
-- Ask me about **MERN, DSA, C++**
-- Reach me:  
+- 🚀 Passionate **Full Stack Developer & DSA Practitioner**
+- ⚙️ Architecting **scalable microservices** and building **dynamic enterprise portals**
+- 🌱 Currently mastering **AI integration** and advanced cloud architectures
+- 💬 Ask me about **MERN, Next.js, Docker, AWS, or DSA**
+- 📫 Reach me:  
   👉 https://kirtan-nahar.vercel.app/  
   👉 https://linktr.ee/notkirtann  
 
-- Fun fact: Chess ♟️ + Football ⚽
+- ⚡ Fun fact: Chess ♟️ + Football ⚽
 
 ---
 
@@ -51,6 +51,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50"/>
