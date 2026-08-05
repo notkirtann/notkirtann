@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/notkirtann">
+  <a href="https://www.leetcode.com/maiKirtanHoon">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
